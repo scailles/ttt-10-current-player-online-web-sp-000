@@ -20,7 +20,7 @@ def current_player(board)
     return "X"
     
   else
-    puts "O"
+    return "O"
   end
 
 end
